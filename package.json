@@ -1,0 +1,23 @@
+{
+  "name": "regex-js",
+  "version": "1.0.0",
+  "description": "Regular expression utilities in javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinich39/regex-js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "shinich39 <shinich39@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinich39/regex-js/issues"
+  },
+  "homepage": "https://github.com/shinich39/regex-js#readme"
+}
